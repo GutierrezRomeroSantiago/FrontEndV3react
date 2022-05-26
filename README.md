@@ -1,6 +1,10 @@
-# MI PRIMER REACT
+# Proyecto Final
+Este proyecto se basa en una red social de películas en la que los usarios pueden interacturar buscando películas, interactuando entre ellos, calorando peliculas, hablaando por un chat en directo y más funciones
 
-En esta aplicación realizamos un frontEnd mediante la librería REACT, a modo de back END utilizamos la api pública de TMDB (The movie DB)
-La aplicación permite buscar peliculas en la API y ver que peliculas están en tendencia actualmente
+# Mejoras de esta versión:
+
+## Chat en directo
+## Sistema de comentarios y valoraciones de películas
+## Sistema de gestión de usarios completado (registro de nuevos usuarios, avatar....)
 
 
